@@ -1,0 +1,10 @@
+{
+  "top_k": 50,
+  "C": 0.1,
+  "n_train": 64,
+  "n_external": 46,
+  "external_class_counts": {
+    "Normal": 9,
+    "Adenoma": 37
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "Model": "Logistic Regression",
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1 Score": 1.0,
+    "ROC AUC": 1.0
+  },
+  {
+    "Model": "SVM",
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1 Score": 1.0,
+    "ROC AUC": 1.0
+  },
+  {
+    "Model": "Random Forest",
+    "Accuracy": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1 Score": 1.0,
+    "ROC AUC": 1.0
+  }
+]

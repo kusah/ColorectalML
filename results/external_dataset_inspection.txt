@@ -1,0 +1,440 @@
+18-Oct-2026 17:59:30 INFO GEOparse - Parsing C:\Users\hp\ColorectalCancerML\data\raw\GSE50114\GSE50114_family.soft.gz: 
+18-Oct-2026 17:59:30 DEBUG GEOparse - DATABASE: GeoMiame
+18-Oct-2026 17:59:30 DEBUG GEOparse - SERIES: GSE50114
+18-Oct-2026 17:59:30 DEBUG GEOparse - PLATFORM: GPL6480
+C:\Users\hp\ColorectalCancerML\.venv\Lib\site-packages\GEOparse\GEOparse.py:401: DtypeWarning: Columns (2: CONTROL_TYPE) have mixed types. Specify dtype option on import or set low_memory=False.
+  return read_csv(StringIO(data), index_col=None, sep="\t")
+18-Oct-2026 17:59:31 DEBUG GEOparse - SAMPLE: GSM1214306
+18-Oct-2026 17:59:31 DEBUG GEOparse - SAMPLE: GSM1214307
+18-Oct-2026 17:59:31 DEBUG GEOparse - SAMPLE: GSM1214308
+18-Oct-2026 17:59:31 DEBUG GEOparse - SAMPLE: GSM1214309
+18-Oct-2026 17:59:31 DEBUG GEOparse - SAMPLE: GSM1214310
+18-Oct-2026 17:59:31 DEBUG GEOparse - SAMPLE: GSM1214311
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214312
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214313
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214314
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214315
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214316
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214317
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214318
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214319
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214320
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214321
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214322
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214323
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214324
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214325
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214326
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214327
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214328
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214329
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214330
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214331
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214332
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214333
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214334
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214335
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214336
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214337
+18-Oct-2026 17:59:32 DEBUG GEOparse - SAMPLE: GSM1214338
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214339
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214340
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214341
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214342
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214343
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214344
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214345
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214346
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214347
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214348
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214349
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214350
+18-Oct-2026 17:59:33 DEBUG GEOparse - SAMPLE: GSM1214351
+Looking for downloaded GEO files...
+
+=== Dataset summary ===
+Dataset ID: GSE50114
+Title: Identification of a gene expression signature in colorectal adenoma in comparison with normal mucosa
+Platforms: ['GPL6480']
+Total samples: 46
+
+=== Sample metadata ===
+
+Sample: GSM1214306
+Title: CRA vs NOR colorectal adenoma, patient 132
+Source: colorectal adenoma biopsy sample, patient 132
+Characteristics:
+   tissue: adenoma
+   gender: female
+   localisation: cecum
+
+Sample: GSM1214307
+Title: CRA vs NOR colorectal adenoma, patient 54
+Source: colorectal adenoma biopsy sample, patient 54
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: sigmoid colon
+
+Sample: GSM1214308
+Title: CRA vs NOR colorectal adenoma, patient 58
+Source: colorectal adenoma biopsy sample, patient 58
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: transversal colon
+
+Sample: GSM1214309
+Title: CRA vs NOR colorectal adenoma, patient 60
+Source: colorectal adenoma biopsy sample, patient 60
+Characteristics:
+   tissue: adenoma
+   gender: female
+   localisation: rectum
+
+Sample: GSM1214310
+Title: CRA vs NOR colorectal adenoma, patient 70
+Source: colorectal adenoma biopsy sample, patient 70
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: rectosigmoid junction
+
+Sample: GSM1214311
+Title: CRA vs NOR colorectal adenoma, patient 72
+Source: colorectal adenoma biopsy sample, patient 72
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: bauhin's valve
+
+Sample: GSM1214312
+Title: CRA vs NOR colorectal adenoma, patient 74
+Source: colorectal adenoma biopsy sample, patient 74
+Characteristics:
+   tissue: adenoma
+   gender: female
+   localisation: rectosigmoid junction
+
+Sample: GSM1214313
+Title: CRA vs NOR colorectal adenoma, patient 79
+Source: colorectal adenoma biopsy sample, patient 79
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: right colon
+
+Sample: GSM1214314
+Title: CRA vs NOR colorectal adenoma, patient 94
+Source: colorectal adenoma biopsy sample, patient 94
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: cecum
+
+Sample: GSM1214315
+Title: CRA vs NOR colorectal adenoma, patient 103
+Source: colorectal adenoma biopsy sample, patient 103
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: left colon
+
+Sample: GSM1214316
+Title: CRA vs NOR colorectal adenoma, patient 15
+Source: colorectal adenoma biopsy sample, patient 15
+Characteristics:
+   tissue: adenoma
+   gender: female
+   localisation: sigmoid colon
+
+Sample: GSM1214317
+Title: CRA vs NOR colorectal adenoma, patient 17
+Source: colorectal adenoma biopsy sample, patient 17
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: rectosigmoid junction
+
+Sample: GSM1214318
+Title: CRA vs NOR colorectal adenoma, patient 18
+Source: colorectal adenoma biopsy sample, patient 18
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: rectum
+
+Sample: GSM1214319
+Title: CRA vs NOR colorectal adenoma, patient 35
+Source: colorectal adenoma biopsy sample, patient 35
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: rectum
+
+Sample: GSM1214320
+Title: CRA vs NOR colorectal adenoma, patient 37
+Source: colorectal adenoma biopsy sample, patient 37
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: right colon
+
+Sample: GSM1214321
+Title: CRA vs NOR colorectal adenoma, patient 44
+Source: colorectal adenoma biopsy sample, patient 44
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: sigmoid colon
+
+Sample: GSM1214322
+Title: CRA vs NOR colorectal adenoma, patient 53
+Source: colorectal adenoma biopsy sample, patient 53
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: rectum
+
+Sample: GSM1214323
+Title: CRA vs NOR colorectal adenoma, patient 78
+Source: colorectal adenoma biopsy sample, patient 78
+Characteristics:
+   tissue: adenoma
+   gender: female
+   localisation: rectum
+
+Sample: GSM1214324
+Title: CRA vs NOR colorectal adenoma, patient 82
+Source: colorectal adenoma biopsy sample, patient 82
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: sigmoid colon
+
+Sample: GSM1214325
+Title: CRA vs NOR colorectal adenoma, patient 84, sample 1
+Source: colorectal adenoma biopsy sample, patient 84, sample 1
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: left colon
+
+Sample: GSM1214326
+Title: CRA vs NOR colorectal adenoma, patient 84, sample 2
+Source: colorectal adenoma biopsy sample, patient 84, sample 2
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: sigmoid colon
+
+Sample: GSM1214327
+Title: CRA vs NOR colorectal adenoma, patient 93
+Source: colorectal adenoma biopsy sample, patient 93
+Characteristics:
+   tissue: adenoma
+   gender: female
+   localisation: rectum
+
+Sample: GSM1214328
+Title: CRA vs NOR colorectal adenoma, patient 106
+Source: colorectal adenoma biopsy sample, patient 106
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: left colon
+
+Sample: GSM1214329
+Title: CRA vs NOR colorectal adenoma, patient 12
+Source: colorectal adenoma biopsy sample, patient 12
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: cecum
+
+Sample: GSM1214330
+Title: CRA vs NOR colorectal adenoma, patient 129
+Source: colorectal adenoma biopsy sample, patient 129
+Characteristics:
+   tissue: adenoma
+   gender: female
+   localisation: left colon
+
+Sample: GSM1214331
+Title: CRA vs NOR colorectal adenoma, patient 14
+Source: colorectal adenoma biopsy sample, patient 14
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: rectum
+
+Sample: GSM1214332
+Title: CRA vs NOR colorectal adenoma, patient 24
+Source: colorectal adenoma biopsy sample, patient 24
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: right colon
+
+Sample: GSM1214333
+Title: CRA vs NOR colorectal adenoma, patient 34
+Source: colorectal adenoma biopsy sample, patient 34
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: sigmoid colon
+
+Sample: GSM1214334
+Title: CRA vs NOR colorectal adenoma, patient 42
+Source: colorectal adenoma biopsy sample, patient 42
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: sigmoid colon
+
+Sample: GSM1214335
+Title: CRA vs NOR colorectal adenoma, patient 69
+Source: colorectal adenoma biopsy sample, patient 69
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: rectosigmoid junction
+
+Sample: GSM1214336
+Title: CRA vs NOR colorectal adenoma, patient 71
+Source: colorectal adenoma biopsy sample, patient 71
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: rectum
+
+Sample: GSM1214337
+Title: CRA vs NOR colorectal adenoma, patient 73
+Source: colorectal adenoma biopsy sample, patient 73
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: left colon
+
+Sample: GSM1214338
+Title: CRA vs NOR colorectal adenoma, patient 80
+Source: colorectal adenoma biopsy sample, patient 80
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: rectosigmoid junction
+
+Sample: GSM1214339
+Title: CRA vs NOR colorectal adenoma, patient 83
+Source: colorectal adenoma biopsy sample, patient 83
+Characteristics:
+   tissue: adenoma
+   gender: female
+   localisation: right colon
+
+Sample: GSM1214340
+Title: CRA vs NOR colorectal adenoma, patient 86
+Source: colorectal adenoma biopsy sample, patient 86
+Characteristics:
+   tissue: adenoma
+   gender: female
+   localisation: right colon
+
+Sample: GSM1214341
+Title: CRA vs NOR colorectal adenoma, patient 91
+Source: colorectal adenoma biopsy sample, patient 91
+Characteristics:
+   tissue: adenoma
+   gender: male
+   localisation: rectosigmoid junction
+
+Sample: GSM1214342
+Title: CRA vs NOR colorectal adenoma, patient 95
+Source: colorectal adenoma biopsy sample, patient 95
+Characteristics:
+   tissue: adenoma
+   gender: female
+   localisation: rectum
+
+Sample: GSM1214343
+Title: CRA vs NOR colorectal normal mucosa, patient 108
+Source: colorectal normal mucosa biopsy sample, patient 108
+Characteristics:
+   tissue: normal mucosa
+   gender: male
+   localisation: left colon
+
+Sample: GSM1214344
+Title: CRA vs NOR colorectal normal mucosa, patient 115
+Source: colorectal normal mucosa biopsy sample, patient 115
+Characteristics:
+   tissue: normal mucosa
+   gender: male
+   localisation: sigmoid colon
+
+Sample: GSM1214345
+Title: CRA vs NOR colorectal normal mucosa, patient 117
+Source: colorectal normal mucosa biopsy sample, patient 117
+Characteristics:
+   tissue: normal mucosa
+   gender: male
+   localisation: right colon
+
+Sample: GSM1214346
+Title: CRA vs NOR colorectal normal mucosa, patient 118
+Source: colorectal normal mucosa biopsy sample, patient 118
+Characteristics:
+   tissue: normal mucosa
+   gender: male
+   localisation: right angle
+
+Sample: GSM1214347
+Title: CRA vs NOR colorectal normal mucosa, patient 120
+Source: colorectal normal mucosa biopsy sample, patient 120
+Characteristics:
+   tissue: normal mucosa
+   gender: female
+   localisation: right colon
+
+Sample: GSM1214348
+Title: CRA vs NOR colorectal normal mucosa, patient 123
+Source: colorectal normal mucosa biopsy sample, patient 123
+Characteristics:
+   tissue: normal mucosa
+   gender: male
+   localisation: cecum
+
+Sample: GSM1214349
+Title: CRA vs NOR colorectal normal mucosa, patient 132
+Source: colorectal normal mucosa biopsy sample, patient 132
+Characteristics:
+   tissue: normal mucosa
+   gender: female
+   localisation: cecum
+
+Sample: GSM1214350
+Title: CRA vs NOR colorectal normal mucosa, patient 86
+Source: colorectal normal mucosa biopsy sample, patient 86
+Characteristics:
+   tissue: normal mucosa
+   gender: female
+   localisation: right colon
+
+Sample: GSM1214351
+Title: CRA vs NOR colorectal normal mucosa, patient 89
+Source: colorectal normal mucosa biopsy sample, patient 89
+Characteristics:
+   tissue: normal mucosa
+   gender: female
+   localisation: rectum / anal canal
+
+=== Platform information ===
+Platform: GPL6480
+Annotation columns: ['ID', 'SPOT_ID', 'CONTROL_TYPE', 'REFSEQ', 'GB_ACC', 'GENE', 'GENE_SYMBOL', 'GENE_NAME', 'UNIGENE_ID', 'ENSEMBL_ID', 'TIGR_ID', 'ACCESSION_STRING', 'CHROMOSOMAL_LOCATION', 'CYTOBAND', 'DESCRIPTION', 'GO_ID', 'SEQUENCE']
+Annotation preview:
+          ID      SPOT_ID CONTROL_TYPE    REFSEQ    GB_ACC     GENE GENE_SYMBOL                                          GENE_NAME UNIGENE_ID      ENSEMBL_ID  TIGR_ID                                                          ACCESSION_STRING    CHROMOSOMAL_LOCATION   CYTOBAND                                                                                                     DESCRIPTION                                                                                                                                                                                                                                                                                         GO_ID                                                     SEQUENCE
+A_23_P100001 A_23_P100001        False NM_207446 NM_207446 400451.0     FAM174B      family with sequence similarity 174, member B   Hs.27373 ENST00000557398      NaN ref|NM_207446|ens|ENST00000557398|ens|ENST00000553393|ens|ENST00000327355 chr15:93160848-93160789 hs|15q26.1                          Homo sapiens family with sequence similarity 174, member B (FAM174B), mRNA [NM_207446]                                                                                                                                                                                                                                         GO:0016020(membrane)|GO:0016021(integral to membrane) ATCTCATGGAAAAGCTGGATTCCTCTGCCTTACGCAGAAACACCCGGGCTCCATCTGCCA
+A_23_P100011 A_23_P100011        False NM_005829 NM_005829  10239.0       AP3S2 adaptor-related protein complex 3, sigma 2 subunit  Hs.632161             NaN      NaN                ref|NM_005829|ref|NM_001199058|ref|NR_023361|ref|NR_037582 chr15:90378743-90378684 hs|15q26.1 Homo sapiens adaptor-related protein complex 3, sigma 2 subunit (AP3S2), transcript variant 1, mRNA [NM_005829]               GO:0005794(Golgi apparatus)|GO:0006886(intracellular protein transport)|GO:0008565(protein transporter activity)|GO:0016020(membrane)|GO:0016192(vesicle-mediated transport)|GO:0030117(membrane coat)|GO:0030659(cytoplasmic vesicle membrane)|GO:0031410(cytoplasmic vesicle) TCAAGTATTGGCCTGACATAGAGTCCTTAAGACAAGCAAAGACAAGCAAGGCAAGCACGT
+A_23_P100022 A_23_P100022        False NM_014848 NM_014848   9899.0        SV2B                   synaptic vesicle glycoprotein 2B   Hs.21754 ENST00000557410      NaN    ref|NM_014848|ref|NM_001167580|ens|ENST00000557410|ens|ENST00000330276 chr15:91838329-91838388 hs|15q26.1                    Homo sapiens synaptic vesicle glycoprotein 2B (SV2B), transcript variant 1, mRNA [NM_014848] GO:0001669(acrosomal vesicle)|GO:0006836(neurotransmitter transport)|GO:0016020(membrane)|GO:0016021(integral to membrane)|GO:0022857(transmembrane transporter activity)|GO:0030054(cell junction)|GO:0030672(synaptic vesicle membrane)|GO:0031410(cytoplasmic vesicle)|GO:0045202(synapse) ATGTCGGCTGTGGAGGGTTAAAGGGATGAGGCTTTCCTTTGTTTAGCAAATCTGTTCACA
+
+Inspection completed.

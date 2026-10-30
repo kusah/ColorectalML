@@ -1,0 +1,47 @@
+sample_id,title,source,tissue,characteristics
+GSM1214306,"CRA vs NOR colorectal adenoma, patient 132","colorectal adenoma biopsy sample, patient 132",Adenoma,tissue: adenoma | gender: female | localisation: cecum
+GSM1214307,"CRA vs NOR colorectal adenoma, patient 54","colorectal adenoma biopsy sample, patient 54",Adenoma,tissue: adenoma | gender: male | localisation: sigmoid colon
+GSM1214308,"CRA vs NOR colorectal adenoma, patient 58","colorectal adenoma biopsy sample, patient 58",Adenoma,tissue: adenoma | gender: male | localisation: transversal colon
+GSM1214309,"CRA vs NOR colorectal adenoma, patient 60","colorectal adenoma biopsy sample, patient 60",Adenoma,tissue: adenoma | gender: female | localisation: rectum
+GSM1214310,"CRA vs NOR colorectal adenoma, patient 70","colorectal adenoma biopsy sample, patient 70",Adenoma,tissue: adenoma | gender: male | localisation: rectosigmoid junction
+GSM1214311,"CRA vs NOR colorectal adenoma, patient 72","colorectal adenoma biopsy sample, patient 72",Adenoma,tissue: adenoma | gender: male | localisation: bauhin's valve
+GSM1214312,"CRA vs NOR colorectal adenoma, patient 74","colorectal adenoma biopsy sample, patient 74",Adenoma,tissue: adenoma | gender: female | localisation: rectosigmoid junction
+GSM1214313,"CRA vs NOR colorectal adenoma, patient 79","colorectal adenoma biopsy sample, patient 79",Adenoma,tissue: adenoma | gender: male | localisation: right colon
+GSM1214314,"CRA vs NOR colorectal adenoma, patient 94","colorectal adenoma biopsy sample, patient 94",Adenoma,tissue: adenoma | gender: male | localisation: cecum
+GSM1214315,"CRA vs NOR colorectal adenoma, patient 103","colorectal adenoma biopsy sample, patient 103",Adenoma,tissue: adenoma | gender: male | localisation: left colon
+GSM1214316,"CRA vs NOR colorectal adenoma, patient 15","colorectal adenoma biopsy sample, patient 15",Adenoma,tissue: adenoma | gender: female | localisation: sigmoid colon
+GSM1214317,"CRA vs NOR colorectal adenoma, patient 17","colorectal adenoma biopsy sample, patient 17",Adenoma,tissue: adenoma | gender: male | localisation: rectosigmoid junction
+GSM1214318,"CRA vs NOR colorectal adenoma, patient 18","colorectal adenoma biopsy sample, patient 18",Adenoma,tissue: adenoma | gender: male | localisation: rectum
+GSM1214319,"CRA vs NOR colorectal adenoma, patient 35","colorectal adenoma biopsy sample, patient 35",Adenoma,tissue: adenoma | gender: male | localisation: rectum
+GSM1214320,"CRA vs NOR colorectal adenoma, patient 37","colorectal adenoma biopsy sample, patient 37",Adenoma,tissue: adenoma | gender: male | localisation: right colon
+GSM1214321,"CRA vs NOR colorectal adenoma, patient 44","colorectal adenoma biopsy sample, patient 44",Adenoma,tissue: adenoma | gender: male | localisation: sigmoid colon
+GSM1214322,"CRA vs NOR colorectal adenoma, patient 53","colorectal adenoma biopsy sample, patient 53",Adenoma,tissue: adenoma | gender: male | localisation: rectum
+GSM1214323,"CRA vs NOR colorectal adenoma, patient 78","colorectal adenoma biopsy sample, patient 78",Adenoma,tissue: adenoma | gender: female | localisation: rectum
+GSM1214324,"CRA vs NOR colorectal adenoma, patient 82","colorectal adenoma biopsy sample, patient 82",Adenoma,tissue: adenoma | gender: male | localisation: sigmoid colon
+GSM1214325,"CRA vs NOR colorectal adenoma, patient 84, sample 1","colorectal adenoma biopsy sample, patient 84, sample 1",Adenoma,tissue: adenoma | gender: male | localisation: left colon
+GSM1214326,"CRA vs NOR colorectal adenoma, patient 84, sample 2","colorectal adenoma biopsy sample, patient 84, sample 2",Adenoma,tissue: adenoma | gender: male | localisation: sigmoid colon
+GSM1214327,"CRA vs NOR colorectal adenoma, patient 93","colorectal adenoma biopsy sample, patient 93",Adenoma,tissue: adenoma | gender: female | localisation: rectum
+GSM1214328,"CRA vs NOR colorectal adenoma, patient 106","colorectal adenoma biopsy sample, patient 106",Adenoma,tissue: adenoma | gender: male | localisation: left colon
+GSM1214329,"CRA vs NOR colorectal adenoma, patient 12","colorectal adenoma biopsy sample, patient 12",Adenoma,tissue: adenoma | gender: male | localisation: cecum
+GSM1214330,"CRA vs NOR colorectal adenoma, patient 129","colorectal adenoma biopsy sample, patient 129",Adenoma,tissue: adenoma | gender: female | localisation: left colon
+GSM1214331,"CRA vs NOR colorectal adenoma, patient 14","colorectal adenoma biopsy sample, patient 14",Adenoma,tissue: adenoma | gender: male | localisation: rectum
+GSM1214332,"CRA vs NOR colorectal adenoma, patient 24","colorectal adenoma biopsy sample, patient 24",Adenoma,tissue: adenoma | gender: male | localisation: right colon
+GSM1214333,"CRA vs NOR colorectal adenoma, patient 34","colorectal adenoma biopsy sample, patient 34",Adenoma,tissue: adenoma | gender: male | localisation: sigmoid colon
+GSM1214334,"CRA vs NOR colorectal adenoma, patient 42","colorectal adenoma biopsy sample, patient 42",Adenoma,tissue: adenoma | gender: male | localisation: sigmoid colon
+GSM1214335,"CRA vs NOR colorectal adenoma, patient 69","colorectal adenoma biopsy sample, patient 69",Adenoma,tissue: adenoma | gender: male | localisation: rectosigmoid junction
+GSM1214336,"CRA vs NOR colorectal adenoma, patient 71","colorectal adenoma biopsy sample, patient 71",Adenoma,tissue: adenoma | gender: male | localisation: rectum
+GSM1214337,"CRA vs NOR colorectal adenoma, patient 73","colorectal adenoma biopsy sample, patient 73",Adenoma,tissue: adenoma | gender: male | localisation: left colon
+GSM1214338,"CRA vs NOR colorectal adenoma, patient 80","colorectal adenoma biopsy sample, patient 80",Adenoma,tissue: adenoma | gender: male | localisation: rectosigmoid junction
+GSM1214339,"CRA vs NOR colorectal adenoma, patient 83","colorectal adenoma biopsy sample, patient 83",Adenoma,tissue: adenoma | gender: female | localisation: right colon
+GSM1214340,"CRA vs NOR colorectal adenoma, patient 86","colorectal adenoma biopsy sample, patient 86",Adenoma,tissue: adenoma | gender: female | localisation: right colon
+GSM1214341,"CRA vs NOR colorectal adenoma, patient 91","colorectal adenoma biopsy sample, patient 91",Adenoma,tissue: adenoma | gender: male | localisation: rectosigmoid junction
+GSM1214342,"CRA vs NOR colorectal adenoma, patient 95","colorectal adenoma biopsy sample, patient 95",Adenoma,tissue: adenoma | gender: female | localisation: rectum
+GSM1214343,"CRA vs NOR colorectal normal mucosa, patient 108","colorectal normal mucosa biopsy sample, patient 108",Normal,tissue: normal mucosa | gender: male | localisation: left colon
+GSM1214344,"CRA vs NOR colorectal normal mucosa, patient 115","colorectal normal mucosa biopsy sample, patient 115",Normal,tissue: normal mucosa | gender: male | localisation: sigmoid colon
+GSM1214345,"CRA vs NOR colorectal normal mucosa, patient 117","colorectal normal mucosa biopsy sample, patient 117",Normal,tissue: normal mucosa | gender: male | localisation: right colon
+GSM1214346,"CRA vs NOR colorectal normal mucosa, patient 118","colorectal normal mucosa biopsy sample, patient 118",Normal,tissue: normal mucosa | gender: male | localisation: right angle
+GSM1214347,"CRA vs NOR colorectal normal mucosa, patient 120","colorectal normal mucosa biopsy sample, patient 120",Normal,tissue: normal mucosa | gender: female | localisation: right colon
+GSM1214348,"CRA vs NOR colorectal normal mucosa, patient 123","colorectal normal mucosa biopsy sample, patient 123",Normal,tissue: normal mucosa | gender: male | localisation: cecum
+GSM1214349,"CRA vs NOR colorectal normal mucosa, patient 132","colorectal normal mucosa biopsy sample, patient 132",Normal,tissue: normal mucosa | gender: female | localisation: cecum
+GSM1214350,"CRA vs NOR colorectal normal mucosa, patient 86","colorectal normal mucosa biopsy sample, patient 86",Normal,tissue: normal mucosa | gender: female | localisation: right colon
+GSM1214351,"CRA vs NOR colorectal normal mucosa, patient 89","colorectal normal mucosa biopsy sample, patient 89",Normal,tissue: normal mucosa | gender: female | localisation: rectum / anal canal
